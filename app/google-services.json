@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "238196486435",
+    "firebase_url": "https://signup-339da-default-rtdb.firebaseio.com",
+    "project_id": "signup-339da",
+    "storage_bucket": "signup-339da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238196486435:android:ad74d4ae58aceb17ad9c96",
+        "android_client_info": {
+          "package_name": "com.example.signup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh4d2VD3fLCUUH3FSC2Q9g4NoJOk7BjQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
